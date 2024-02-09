@@ -9,6 +9,8 @@ Comandos utilizados:
     npx prisma init -> Terceira ação é tomada!
     npx prisma migrate dev: gera a tabela de enquetes
         Enter a name for the new migration: create polls
+    npx prisma studio: Interface Web para navegar pelo banco de dados
+    npm i zod: Validação de dados da requisição (Primeiramente utilizada no contexto de request.body...)
 
 Ações tomadas:
     Acessar https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping;
